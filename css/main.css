@@ -1,0 +1,146 @@
+body {
+  background-color: tan;
+}
+
+/* elementen */
+header {
+  width: 80%;
+  height: 100px;
+  background-color: sienna;
+}
+
+footer {
+  width: 80%;
+  height: 150px;
+  background-color: rgb(42, 25, 5);
+}
+
+haeder, h1 {
+  color: white;
+}
+
+h2 {
+  color: rgb(255,255,255);
+}
+
+a {
+  color: #d6d3d0;
+}
+
+img {
+  height: 150px;
+}
+
+/* ID's */
+
+#kleurtabel {
+  width: 80%;
+  color: white;
+}
+
+#cel1 {
+  background-color: #fa8e0f;
+  width: 25%;
+}
+
+#cel2 {
+  background-color: #d87800;
+  width: 25%;
+}
+
+#cel3 {
+  background-color: #b97009;
+  width: 25%;
+}
+
+#cel4 {
+  background-color: #995c05;
+  width: 25%;
+}
+
+#cel5 {
+  background-color: #ec6e02;
+}
+
+#cel6 {
+  background-color: #b15601;
+}
+
+#cel7 {
+  background-color: #894702;
+
+}
+
+#cel8 {
+  background-color: #4c2a0f;
+}
+
+#cel9 {
+  background-color: #e37912;
+}
+
+#cel10 {
+  background-color: #c16305;
+}
+
+#cel11 {
+  background-color: #9c570c;
+}
+
+#cel12 {
+  background-color: #623c12;
+}
+
+#cel13 {
+  background-color: #f46e07;
+}
+
+#cel14 {
+  background-color: #cc5d05;
+}
+
+#cel15 {
+  background-color: #9d5110;
+}
+
+#cel16 {
+  background-color: #9d5110;
+}
+
+/* classes */
+
+.tiger {
+    background-color: #000000;
+}
+
+.peanut {
+    background-color: #8F8F8F;
+    color: #2D2D2D;
+}
+
+.fire {
+    background-color: #252525;
+}
+
+.caramel {
+    background-color: #B5B5B5;
+    color: #2D2D2D;
+}
+
+.tangerine {
+    background-color: #464646;
+}
+
+.cider {
+    background-color: #E0E0E0;
+    color: #2D2D2D;
+}
+
+.orange {
+    background-color: #747474;
+}
+
+.bronze {
+    background-color: #FFFFFF;
+    color: #2D2D2D;
+}
